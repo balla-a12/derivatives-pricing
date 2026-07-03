@@ -2,6 +2,8 @@
 
 An options pricing library spanning analytic Black-Scholes with the full Greek set, the binomial and trinomial lattices, Monte Carlo for vanilla, Asian, and barrier options, the Heston stochastic-volatility model in both Monte Carlo and characteristic-function form, and calibration of the Heston parameters to an implied-volatility surface. Every model is cross-checked against an independent calculation.
 
+_Not investment advice._
+
 **Stack:** Python · numpy · scipy · matplotlib
 
 ---
