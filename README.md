@@ -38,7 +38,7 @@ Nine tests encode these checks and run with `pytest`.
 ## Getting started
 
 ```bash
-git clone https://github.com/<user>/derivatives-pricing.git
+git clone https://github.com/balla-a12/derivatives-pricing.git
 cd derivatives-pricing
 pip install -e .
 pytest -q
